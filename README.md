@@ -5,7 +5,7 @@ This is a simple web-based QR Code Generator using HTML, CSS, and JavaScript.
 ## How It Works
 
 - Users can input a link or text into the search box.
-- Upon submitting, the app generates a QR code using the [QRServer API](https://goqr.me/api/doc/).
+- Upon submitting, the app generates a QR code using the [QRServer API](https://api.qrserver.com/v1/create-qr-code/?data=https://skmaurya05550.github.io/skm-555/).
 - The QR code is displayed on the page, and the user can scan it to view the encoded information.
 
 ## Features
